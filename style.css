@@ -38,13 +38,37 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-button{
+.hello{
+    height: 250px;
+    width: 250px;
     border: 1px solid black;
-    padding-top: 0px;
+    /* padding-top: 0px;
     padding-bottom: 50px;
     padding-left: 50px;
-    padding-right: 50px;
-    border-radius: 100px;
+    padding-right: 50px; */
+    border-radius: 200px;
     background-color: bisque;
     font-family: 'Times New Roman', Times, serif;
+    
+    text-align: center;
+
+}
+
+.t1{
+    color: red;
+}
+.t2{
+    color: blue;
+}
+.t3{
+    color: green;
+}
+.t4{
+    color: yellow;
+}
+.t5{
+    color: purple;
+}
+.t6{
+    color: orange;
 }
